@@ -6,7 +6,7 @@ This project is created using react.js
 Steps to run the project
 
 ### `npm install`
-### 'npm start'
+### `npm start`
 It will start automatically on port 3000 in your browser . 
 
 # Demo
